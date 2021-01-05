@@ -1,0 +1,16 @@
+[2020-12-31 15:33:48.342] [sharedprocess] [info] main {"machineId":"8bc05b1d8512ed3776d74178e51c2d37b4e3e90b7496f47b7e88a6c40aedbea5","windowId":2}
+[2020-12-31 15:34:28.349] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-12-31 15:36:51.242] [sharedprocess] [info] Installing extension: bceskavich.theme-dracula-at-night
+[2020-12-31 15:36:51.687] [sharedprocess] [info] Downloaded extension: bceskavich.theme-dracula-at-night undefined
+[2020-12-31 15:36:51.757] [sharedprocess] [info] Extracted extension to /home/krish/.vscode-oss/extensions/.bceskavich.theme-dracula-at-night-2.6.1: bceskavich.theme-dracula-at-night
+[2020-12-31 15:36:51.757] [sharedprocess] [info] Renamed to /home/krish/.vscode-oss/extensions/bceskavich.theme-dracula-at-night-2.6.1
+[2020-12-31 15:36:51.758] [sharedprocess] [info] Installation completed. bceskavich.theme-dracula-at-night
+[2020-12-31 15:36:51.761] [sharedprocess] [info] Extensions installed successfully: bceskavich.theme-dracula-at-night
+[2020-12-31 15:37:03.459] [sharedprocess] [info] Uninstalling extension: bceskavich.theme-dracula-at-night
+[2020-12-31 15:37:03.463] [sharedprocess] [info] Successfully uninstalled extension: bceskavich.theme-dracula-at-night
+[2020-12-31 15:37:11.841] [sharedprocess] [info] Uninstalling extension: arcticicestudio.nord-visual-studio-code
+[2020-12-31 15:37:11.849] [sharedprocess] [info] Successfully uninstalled extension: arcticicestudio.nord-visual-studio-code
+[2020-12-31 15:43:15.504] [sharedprocess] [info] Uninstalling extension: sainnhe.gruvbox-material
+[2020-12-31 15:43:15.509] [sharedprocess] [info] Successfully uninstalled extension: sainnhe.gruvbox-material
+[2020-12-31 15:43:18.031] [sharedprocess] [info] Uninstalling extension: dracula-theme.theme-dracula
+[2020-12-31 15:43:18.038] [sharedprocess] [info] Successfully uninstalled extension: dracula-theme.theme-dracula

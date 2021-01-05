@@ -1,0 +1,21 @@
+[2020-12-31 15:15:23.075] [sharedprocess] [info] main {"machineId":"8bc05b1d8512ed3776d74178e51c2d37b4e3e90b7496f47b7e88a6c40aedbea5","windowId":2}
+[2020-12-31 15:15:23.083] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/krish/.config/Code - OSS/User/snippets'
+[2020-12-31 15:16:03.081] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-12-31 15:16:35.005] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2020-12-31 15:16:35.765] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula undefined
+[2020-12-31 15:16:35.795] [sharedprocess] [info] Extracted extension to /home/krish/.vscode-oss/extensions/.dracula-theme.theme-dracula-2.22.3: dracula-theme.theme-dracula
+[2020-12-31 15:16:35.796] [sharedprocess] [info] Renamed to /home/krish/.vscode-oss/extensions/dracula-theme.theme-dracula-2.22.3
+[2020-12-31 15:16:35.796] [sharedprocess] [info] Installation completed. dracula-theme.theme-dracula
+[2020-12-31 15:16:35.799] [sharedprocess] [info] Extensions installed successfully: dracula-theme.theme-dracula
+[2020-12-31 15:16:55.517] [sharedprocess] [info] Installing extension: arcticicestudio.nord-visual-studio-code
+[2020-12-31 15:16:55.830] [sharedprocess] [info] Downloaded extension: arcticicestudio.nord-visual-studio-code undefined
+[2020-12-31 15:16:55.838] [sharedprocess] [info] Extracted extension to /home/krish/.vscode-oss/extensions/.arcticicestudio.nord-visual-studio-code-0.15.0: arcticicestudio.nord-visual-studio-code
+[2020-12-31 15:16:55.839] [sharedprocess] [info] Renamed to /home/krish/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.15.0
+[2020-12-31 15:16:55.839] [sharedprocess] [info] Installation completed. arcticicestudio.nord-visual-studio-code
+[2020-12-31 15:16:55.841] [sharedprocess] [info] Extensions installed successfully: arcticicestudio.nord-visual-studio-code
+[2020-12-31 15:17:44.611] [sharedprocess] [info] Installing extension: sainnhe.gruvbox-material
+[2020-12-31 15:17:45.629] [sharedprocess] [info] Downloaded extension: sainnhe.gruvbox-material undefined
+[2020-12-31 15:17:45.680] [sharedprocess] [info] Extracted extension to /home/krish/.vscode-oss/extensions/.sainnhe.gruvbox-material-6.3.5: sainnhe.gruvbox-material
+[2020-12-31 15:17:45.680] [sharedprocess] [info] Renamed to /home/krish/.vscode-oss/extensions/sainnhe.gruvbox-material-6.3.5
+[2020-12-31 15:17:45.680] [sharedprocess] [info] Installation completed. sainnhe.gruvbox-material
+[2020-12-31 15:17:45.683] [sharedprocess] [info] Extensions installed successfully: sainnhe.gruvbox-material

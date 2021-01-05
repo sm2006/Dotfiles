@@ -1,0 +1,2 @@
+[2021-01-01 12:19:17.058] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/krish/Documents/krishk/.vscode'
+[2021-01-01 12:19:34.201] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/krish/Documents/k2blog/.vscode'
